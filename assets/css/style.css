@@ -1,0 +1,31 @@
+* {
+  font-family: "Lato", sans-serif;
+}
+
+.navbar {
+  background-color: #fc8eac !important;
+}
+
+.bg-primary {
+  background-color: #fc8eac !important;
+}
+.jumbotron {
+  padding-top: 5rem;
+}
+
+.text-light {
+  color: #fc8eac !important;
+}
+.rounded-circle.img-thumbnail {
+  background-color: #fc8eac;
+}
+#about {
+  background-color: #fc8eac;
+}
+#projects {
+  background-color: #273036;
+}
+
+.footer {
+  background-color: #fc8eac !important;
+}
